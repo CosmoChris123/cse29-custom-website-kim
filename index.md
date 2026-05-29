@@ -1,3 +1,3 @@
 I love drawing!!!
 
-![Pokemon!](./gen-3-wallpaper.png)
+![Pokemon!](<./gen 3 wallpaper.png>)
